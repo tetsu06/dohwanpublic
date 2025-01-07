@@ -1,2 +1,0 @@
-# dohwanpublic
-public test
