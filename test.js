@@ -1,1 +1,1 @@
-aws_access_key_id=AKIAQMBDQXYDEHS6KVGW
+aws_access_key_id=123
